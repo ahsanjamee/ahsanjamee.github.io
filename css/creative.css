@@ -10831,7 +10831,8 @@ li:hover{
   /* font-size: 18px; */
   color : rgb(28, 110, 106);
   cursor: pointer;
-  transition: width 2s, height 2s, transform 4s;
+  transition: transform .2s;
+  transform: translate(5px, 0px);
  
 }
 .tools{
