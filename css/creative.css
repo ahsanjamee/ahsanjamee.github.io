@@ -10827,7 +10827,7 @@ header.masthead h1 {
   list-style-type: none;
   
 }
-li:hover{
+.skill li:hover{
   /* font-size: 18px; */
   color : rgb(28, 110, 106);
   cursor: pointer;
